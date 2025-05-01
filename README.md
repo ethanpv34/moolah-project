@@ -124,7 +124,7 @@ Note: Skip this step if you manually created the database schema using the SQL s
 dotnet run
 ```
 
-The API will be available at http://localhost:5213
+The API should be available at http://localhost:5213, if not, you will want to update the `API_URL` to whatever port it is on in both `Login.vue` and `TodoList.vue`.
 
 ### 4. Frontend Setup
 
