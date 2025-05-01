@@ -1,0 +1,39 @@
+# Server
+server/**/bin/
+server/**/obj/
+server/**/*.user
+server/**/*.userosscache
+server/**/*.suo
+server/**/*.sqlite
+server/**/.vs/
+server/**/.vscode/
+server/**/Properties/launchSettings.json
+
+**/*.pfx
+**/*.key
+
+# IDE files
+.idea/
+.vscode/
+*.sw?
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Misc
+.DS_Store
+Thumbs.db
+*~
+*.log 
